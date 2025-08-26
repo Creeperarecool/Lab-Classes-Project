@@ -1,0 +1,29 @@
+31)
+
+0       = int
+“hello” = string
+101     = int
+-1      = int
+true    = boolean
+“33”    = string
+3.1415  = float
+
+32) Add code that has public void name()
+and inside the {} add what you want it to do
+
+33)
+    public void send(String message)
+    {
+
+    }
+
+34)
+    public void average(int height, int age)
+    {
+
+    }
+
+35)
+The book is an object, the class of the book would probably be basic like "Text Book"
+
+36) No, you can have multiple objects in the class or reference other classes but you can't have several classes in one.
